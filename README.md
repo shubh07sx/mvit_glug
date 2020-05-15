@@ -1,11 +1,7 @@
-# mvit_glug
+# GLUG_MVIT
+Website for college club GLUG(GNU Linux Users Group). GLUG (GNU Linux Users Group) is a community of developers who love free software, powered by FSMK.
 
-# Website for College Club GLUG MVIT
-
-Students can add events and delete events organised in the college.
-Also Connects people with their different blogs etc..
-
-
-Link for the site is attached below-
-
-# https://glugmvit2.herokuapp.com/
+# Features:
+- Developed with nodejs and express as backend with Firebase as database.
+- Here you can register for the events.
+- Host events.
